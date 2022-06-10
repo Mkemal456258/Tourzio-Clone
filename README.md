@@ -1,4 +1,4 @@
-# Tourzio-Clone
+# Tourzio - Clone
 Tourzio Clone Uygulaması
 
 
